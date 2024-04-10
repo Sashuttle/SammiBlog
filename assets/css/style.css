@@ -1,0 +1,160 @@
+/* back ground color for both pages*/
+body {
+    background-color: rgb(248, 246, 241);
+}
+
+.header{
+    border-bottom: 10px double;
+    text-align: right;
+    height: 100px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+.section {
+    flex: 1; 
+    padding: 20px;
+    max-width: 50%;
+    box-sizing: border-box;
+    align-items:start;
+}
+
+/* Left section of the main page (circle) */
+.blogName{
+    line-height: 400px;
+    border:5px solid black;
+    border-radius: 50%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    width:450px;
+    height:450px;
+    background: linear-gradient(to bottom right, rgb(200, 166, 219), rgb(184, 116, 223), rgb(117, 48, 158), rgb(92, 24, 132), rgb(86, 7, 133));
+}
+
+#blogNameSection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-right: 10px double;
+    height: 100vh;
+}
+
+/* Right section of the main page */
+#userForm{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+    height: 100vh;
+}
+
+#mind{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 50px;
+    align-self:center;
+}
+
+.userInfo{
+    display:block;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-align:left;
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+
+.submit{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    background: linear-gradient(to bottom right, rgb(200, 166, 219), rgb(184, 116, 223), rgb(117, 48, 158), rgb(92, 24, 132), rgb(86, 7, 133));
+    height: 60px;
+    width: 500px;
+    border-radius: 15px;
+}
+/* User form input*/
+.Box{
+    height: 30px;
+    width: 500px;
+    border-radius: 15px;
+}
+#content{
+    height: 50px;
+    width: 500px;
+    border-radius: 15px;
+}
+
+/* Toggle light and dark mode button*/
+.light{
+    background-color:rgb(248, 246, 241);
+    color: #000000;
+}
+
+.dark{
+    background-color: #000000;
+    color: #ffffff;
+}
+/* .LD is for both light and dark toggle mode as well as the back button so they all have the same design*/
+.LD {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:xx-large;
+    font-weight: bold;
+    background: linear-gradient(to bottom right, rgb(200, 166, 219), rgb(184, 116, 223), rgb(117, 48, 158), rgb(92, 24, 132), rgb(86, 7, 133));
+}
+/* Styling for blog entries on second page*/
+
+/*General header design for this page is combined with the header design above, but the header title for this page has its own design*/
+
+.firstBlog{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 45px;
+    font-weight:bold;
+    text-decoration: underline;
+    margin-bottom: 10px;
+}
+.blogPostsArea {
+    padding: 5px;
+    margin: 5px;
+    word-wrap: break-word;
+    position: relative;
+    height: 40%;
+    width: 95%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    flex-wrap: wrap;
+    outline: 1px;
+    border: 3px solid;
+}
+
+.blogPostsArea h5{
+    font-size: 22px;
+    font-weight:bold;
+    margin-bottom: 8px;
+    text-decoration: underline;
+}
+.blogPostsArea p{
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+/*Footer Area*/
+.footer{
+    border-top: 10px double;
+    text-align: right;
+    height: 100px;
+}
+/* Footer Link */
+.Shuttle{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    font-style: italic;
+    font-weight:bold;
+}

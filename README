@@ -1,0 +1,57 @@
+# Sammi-s-Blog
+I created an interactive blog with the skills I have learned so far. This includes HTML, CSS, and JavaScript. In this blog website mock up, it showcases the coding skills necessary to not only have a smoothly flowing website, but new skills like having a local storage so users can view previous blog posts. It also provides a user friendly experience such as ensuring all information is filled out correctly before being taken to the blog post history page. Users are also able between light and dark mode, which has become a very important aspect of websites and browsers.
+
+## Features
+Semantic HTML: The HTML code displays different semantics that help make the code organized and understandable.
+
+Notes: There are notes throughout the code files to help anyone who looks over it what the purpose of that code was, especially in the CSS files.
+
+Clean Code: I followed the best practice for a clean and well structured code.
+
+Documentation: Provided clear and understandable documentation including this README file.
+
+User Friendly: My code allows the user to toggle between light and dark mode which has become a popular feature on websites and  browsers. If the user also does not fill out the form correctly an alert pops up informing them that information was missing. After submitting the user is able to see a history of blog posts that is saved on a local storage so if they come back to it, that information is not lost. 
+
+Collaberation: Gave credit to those who assisted me with this project no mattery how big or small their input was.  I am truly grateful for their help.
+Resources & Technologies: I have provided a list of what I used for this project.  This also includes links to not only what I used, but also any license information I could find. 
+
+## Resources and Technologies Used
+Reset CSS code:
+    Meyer Web
+    Created by Eric A. Meyer
+    License: None (Public Domain)
+    https://meyerweb.com/eric/tools/css/reset/
+
+Visual Studio Code
+    This program was used for all coding aspects of this project.  The following links will take you to the main page where this program can be downloaded. The other link provides information on Visual Studio Code's License.
+    Main link: https://code.visualstudio.com/
+    License link: https://code.visualstudio.com/License
+
+GitHub
+    This website was used to upload all my code into a repository and help track progress of any changes made. The following link will also allow anyone to sign up if they choose to use it for their own personal work. The second link provided will provide their terms of service.
+    https://github.com/
+    https://docs.github.com/en/site-policy/github-terms/github-terms-of-service
+
+W3Schools
+    This website provided me with code I could use regarding this project.  It provides information on HTML, CSS, and JavaScript.  All three were used in this project.
+    https://www.w3schools.com/
+
+Xpert Learning Assistant
+    This is an AI that was specifically designed to assist students like myself in this Full Stack Web Development Bootcamp. It did assist me with detailed questions I had with my code. 
+
+## Acknowledgements
+
+I would like to acknowledge my brother-in-law John Brooks, Full Stack Developer I. He has continued to have the patience of a saint in helping me understand the mistakes I have made and what I should do to prevent that in the future.  John has explained certain topics in a way I can understand and use that information more efficiently with my code.
+
+I would also like to thank Beth-Ann and Lindsey Maddox, fellow bootcamp students.  We worked together on Sunday helping each other debug our code and get a better grasp on this coding challenge.
+
+## License
+No license available for this specific project.
+
+# Live Website
+https://sashuttle.github.io/Sammi-s-Blog/
+
+
+## Contact
+Phone: ###-###-####
+E-mail: email@email.com
