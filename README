@@ -1,4 +1,4 @@
-# Sammi-s-Blog
+# SammiBlog
 I created an interactive blog with the skills I have learned so far. This includes HTML, CSS, and JavaScript. In this blog website mock up, it showcases the coding skills necessary to not only have a smoothly flowing website, but new skills like having a local storage so users can view previous blog posts. It also provides a user friendly experience such as ensuring all information is filled out correctly before being taken to the blog post history page. Users are also able between light and dark mode, which has become a very important aspect of websites and browsers.
 
 ## Features
@@ -49,7 +49,7 @@ I would also like to thank Beth-Ann and Lindsey Maddox, fellow bootcamp students
 No license available for this specific project.
 
 # Live Website
-https://sashuttle.github.io/Sammi-s-Blog/
+https://sashuttle.github.io/SammiBlog/
 
 
 ## Contact
